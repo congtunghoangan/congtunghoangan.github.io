@@ -31,7 +31,9 @@
     },
     "versionFirst": "4.1.1",
     "uniqCompNum": 31,
-    "versionPublish": "4.1.1"
+    "versionPublish": "4.1.1",
+    "favicon": "@PROJECT_PATH@/assets/images/img-3434-4-128x79.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
