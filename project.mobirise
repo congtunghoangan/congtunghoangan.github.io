@@ -39,8 +39,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Trang chủ",
+        "meta_descr": "Hoàng An và Công Tùng",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
